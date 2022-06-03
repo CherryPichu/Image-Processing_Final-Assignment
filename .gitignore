@@ -1,0 +1,6 @@
+target_movie1.mp4
+target_movie2.mp4
+DJI_0089.MP4
+DJI_0089_backup.MP4
+*.MP4
+./output/*
